@@ -5,7 +5,7 @@
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
-- 💼  &nbsp; Desenvolvedor Frontend na [Editora Positivo](http://www.editorapositivo.com.br/).
+- 💼  &nbsp; Desenvolvedor Frontend na [Positivo Soluções Didáticas](http://www.editorapositivo.com.br/).
 - 👨‍🎓  &nbsp; Formado em Engenharia da Computação na UP.
 - 🥰  &nbsp; Apaixonado pela comunidade Javascript.                                                    
 - 📫  &nbsp; Quer falar comigo? manda um e-mail.                                                        
