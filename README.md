@@ -3,7 +3,7 @@
 ### Fala Pessoal 👋
 #### Eu sou Felipe Leal, de Curitiba, Brasil. Me formei como Engenheiro da Computação e atuo como **Desenvolvedor de Software** :computer: 🚀.
 
-- 👨‍🎓 Formado em Engenharia da Computação na UP.
+- 👨‍🎓 Formado em Engenharia da Computação
 - 👨‍💻 Desenvolvedor full-stack
 - 📖 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
 - 📬 Para entrar em contato comigo, por favor, envie um email para `lealfelipealves@gmail.com`
