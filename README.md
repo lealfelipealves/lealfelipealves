@@ -11,7 +11,7 @@
 **Me encontre**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lealfelipealves)](https://github.com/lealfelipealves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lealfelipealves/)](https://www.linkedin.com/in/moaraujo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lealfelipealves/)](https://www.linkedin.com/in/lealfelipealves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:murilo@muriloaraujo.com)](mailto:lealfelipealves@gmail.com)
 
 
