@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Felipe Leal
 
 ### Fala Pessoal 👋
-#### Eu sou Felipe Leal, de Curitiba, Brasil. Me formei como Engenheiro da Computação e atuo como **Desenvolvedora de Software** :computer: 🚀.
+#### Eu sou Felipe Leal, de Curitiba, Brasil. Me formei como Engenheiro da Computação e atuo como **Desenvolvedor de Software** :computer: 🚀.
 
 - 👨‍🎓 Formado em Engenharia da Computação na UP.
 - 👨‍💻 Desenvolvedor full-stack
