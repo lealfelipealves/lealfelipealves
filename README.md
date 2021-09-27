@@ -35,8 +35,8 @@
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 <a href="https://github.com/lealfelipealves">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lealfelipealves&show_icons=true&theme=dracula" alt="lealfelipealves" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lealfelipealves&show_icons=true&theme=github_dark" alt="lealfelipealves" />
 </a>
 <a href="https://github.com/lealfelipealves">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealfelipealves&layout=compact&theme=dracula" alt="lealfelipealves" />
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealfelipealves&layout=compact&theme=github_dark" alt="lealfelipealves" />
 </a>
